@@ -9,7 +9,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Datos y modelos
-data/
+data/raw/
 models/
 *.csv
 *.mp4
